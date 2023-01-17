@@ -24,8 +24,8 @@ Note: Make sure to have the requirements met before you run the software.
 ## Support
 If you encounter any issues or have suggestions for the app, please contact us at [liad07@gmail.com].
 
-<img src="https://github.com/liad07/youtube-downloader/blob/main/bin/youtube%20(2).png?raw=true" width="100" height="100">
-
 Enjoy!
+
+<img src="https://github.com/liad07/youtube-downloader/blob/main/bin/youtube%20(2).png?raw=true" width="100" height="100">
 
  
