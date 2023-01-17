@@ -9,7 +9,6 @@ This YouTube downloader allows users to easily download videos from YouTube and 
 5) The application will now launch and be ready for use.
 
 Note: Make sure to have the requirements met before you run the software.
-## Requirements
 ## Features
 - Download YouTube videos in MP4 and MP3 formats
 - Save videos in best quality available
@@ -19,6 +18,7 @@ Note: Make sure to have the requirements met before you run the software.
 2) Select the desired file format (MP4, MP3, or both).
 3) Click the "Download" button to begin the download process.
 
+## Requirements
 - Internet connection
 - YouTube video link
 ## Note
