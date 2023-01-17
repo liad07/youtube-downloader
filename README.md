@@ -9,6 +9,13 @@ This YouTube downloader allows users to easily download videos from YouTube and 
 1) Enter the YouTube link in the provided input box.
 2) Select the desired file format (MP4, MP3, or both).
 3) Click the "Download" button to begin the download process.
+## Download Instructions
+1) Click on the [link](https://github.com/liad07/youtube-downloader/blob/main/bin/all.zip?raw=true)
+2) This will download a zip file named "all.zip" to your device.
+3) Extract the contents of the zip file to a location of your choice on your device.
+4) Open the extracted folder and run the executable file named "youtube-downloader".
+5) The application will now launch and be ready for use.
+Note: Make sure to have the requirements met before you run the software.
 ## Requirements
 - Internet connection
 - YouTube video link
