@@ -15,6 +15,7 @@ This YouTube downloader allows users to easily download videos from YouTube and 
 3) Extract the contents of the zip file to a location of your choice on your device.
 4) Open the extracted folder and run the executable file named "youtube-downloader".
 5) The application will now launch and be ready for use.
+
 Note: Make sure to have the requirements met before you run the software.
 ## Requirements
 - Internet connection
