@@ -24,6 +24,8 @@ namespace youtube_downloader
             File.WriteAllText(@"video.txt" , textBox1.Text);
             if (comboBox1.Text == "mp3")
             {
+                            //Process.Start("python3", "nohup mp3.py &");
+
                 Process.Start("mp3.py");
             }
               if (comboBox1.Text == "mp4")
